@@ -3,6 +3,8 @@ import sys
 import time 
 from colorama import Fore , Back ,Style
 os.system("clear")
+os.system("apt install neofetch")
+os.system("neofetch")
 banner = os.system( "pyfiglet We are Myanmar ")
 
 print(Fore.GREEN+"Developer : H-2")
